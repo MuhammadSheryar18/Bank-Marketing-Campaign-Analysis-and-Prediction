@@ -28,7 +28,7 @@ This project aims to predict whether a bank customer will subscribe to a term de
 ## Steps to Run the Project
 
 ## 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/bank-marketing-prediction.git
 cd bank-marketing-prediction
 
@@ -36,14 +36,14 @@ cd bank-marketing-prediction
 
 ## 2. Install Dependencies
 Install the required Python libraries using the requirements.txt file:
-```bash
+
 pip install -r requirements.txt
 
 ---
 
 ## 3. Run the Application
 Launch the application with Streamlit:
-```bash
+
 streamlit run app.py
 
 ---

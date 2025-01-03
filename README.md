@@ -32,19 +32,13 @@ This project aims to predict whether a bank customer will subscribe to a term de
       cd bank-marketing-prediction
 
 
-## 2. Install Dependencies
-Install the required Python libraries using the requirements.txt file:
+## 2. Install Dependencies:
+      pip install -r requirements.txt
 
-pip install -r requirements.txt
 
----
+## 3. Run the Application:
+      streamlit run app.py
 
-## 3. Run the Application
-Launch the application with Streamlit:
-
-streamlit run app.py
-
----
 
 ## 4. Optional: Batch Processing
 - Upload a CSV file containing customer data for bulk predictions.
@@ -104,17 +98,14 @@ The project includes visual insights such as:
 We welcome contributions! Here's how you can get started:
 ## How to Contribute
 
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-branch
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch.
-5. Submit a pull request.
+## 1. Fork the repository.
+## 2. Create a feature branch:
+      git checkout -b feature-branch
+## 3. Commit your changes:
+      git commit -m "Add your message here"
+## 4. Push to the branch:
+      git push origin feature-branch.
+## 5. Submit a pull request.
 ---
 ## License
 

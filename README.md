@@ -28,7 +28,6 @@ This project aims to predict whether a bank customer will subscribe to a term de
 ## Steps to Run the Project
 
 ## 1. Clone the Repository:
-      ```bash
       git clone https://github.com/yourusername/bank-marketing-prediction.git
       cd bank-marketing-prediction
 

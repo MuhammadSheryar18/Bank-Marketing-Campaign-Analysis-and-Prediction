@@ -29,14 +29,15 @@ This project aims to predict whether a bank customer will subscribe to a term de
 
 ### 1. Clone the Repository
 ```bash
-  git clone https://github.com/yourusername/bank-marketing-prediction.git
-  cd bank-marketing-prediction
+git clone https://github.com/yourusername/bank-marketing-prediction.git
+cd bank-marketing-prediction
 
 ### 2. Install Dependencies
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 ### 3. Run the Application
+```bash
 streamlit run app.py
 
 ### 4. Optional: Batch Processing

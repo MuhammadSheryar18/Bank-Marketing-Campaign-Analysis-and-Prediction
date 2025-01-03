@@ -11,7 +11,7 @@ This project aims to predict whether a bank customer will subscribe to a term de
 - *Prediction Model*: Uses machine learning (XGBoost) to classify customer subscription likelihood.
 - *User-Friendly UI*: Built with Streamlit to allow non-technical users to input data and get predictions.
 - *Data Visualization*: Insights into trends such as conversion rates, age-group analysis, and feature importance.
-- *Offline Capability*: Batch processing of customer data in CSV files.
+- *Offline Capability*: Predicts outcomes for a single customer at a time by taking input for all features
 
 ---
 
@@ -40,9 +40,8 @@ This project aims to predict whether a bank customer will subscribe to a term de
       streamlit run app.py
 
 
-## 4. Optional: Batch Processing
-- Upload a CSV file containing customer data for bulk predictions.
-- Use the provided batch processing script to generate predictions in another CSV file.
+## 4. Optional: Single Customer Prediction:
+- Input all required features for a single customer to generate a prediction.
 
 ---
 
@@ -106,11 +105,14 @@ We welcome contributions! Here's how you can get started:
 ## 4. Push to the branch:
       git push origin feature-branch.
 ## 5. Submit a pull request.
+
 ---
+
 ## License
 
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share this project.
+
 ---
 ## Acknowledgements
 

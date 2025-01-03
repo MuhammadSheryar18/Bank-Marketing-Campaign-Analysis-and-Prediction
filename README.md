@@ -31,9 +31,3 @@ This project aims to predict whether a bank customer will subscribe to a term de
 ```bash
 git clone https://github.com/yourusername/bank-marketing-prediction.git
 cd bank-marketing-prediction
-
-
-
-
-
-

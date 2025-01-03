@@ -1,4 +1,3 @@
-# MuhammadSheryar18-Bank-Marketing-Campaign-Analysis-and-Prediction
 # Bank Marketing Campaign Analysis and Prediction
 
 ## Overview

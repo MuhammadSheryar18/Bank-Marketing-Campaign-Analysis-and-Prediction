@@ -28,10 +28,12 @@ This project aims to predict whether a bank customer will subscribe to a term de
 ## Steps to Run the Project
 
 ### 1. Clone the Repository
+```bash
 git clone https://github.com/yourusername/bank-marketing-prediction.git
 cd bank-marketing-prediction
 
 ### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
 
 ### 3. Run the Application
@@ -95,23 +97,23 @@ The project includes visual insights such as:
 We welcome contributions! Here's how you can get started:
 ## How to Contribute
 
-1. Fork the repository.
-2. Create a feature branch:
+## 1. Fork the repository.
+## 2. Create a feature branch:
    ```bash
    git checkout -b feature-branch
-3. Commit your changes:
+## 3. Commit your changes:
    ```bash
    git commit -m "Add your message here"
-4. Push to the branch:
+## 4. Push to the branch:
    ```bash
    git push origin feature-branch.
-5. Submit a pull request.
-
+## 5. Submit a pull request.
+---
 ## License
 
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share this project.
-
+---
 ## Acknowledgements
 
 - **Dataset**: Bank Marketing Dataset.

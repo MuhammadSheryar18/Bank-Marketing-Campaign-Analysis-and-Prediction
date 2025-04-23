@@ -4,6 +4,7 @@
 
 This project aims to predict whether a bank customer will subscribe to a term deposit based on their profile and historical data. It leverages machine learning and a user-friendly interface to assist banks in optimizing their marketing strategies and making data-driven decisions.
 
+https://sheryar1998-bank-marketing-prediction.hf.space
 ---
 
 ## Features
